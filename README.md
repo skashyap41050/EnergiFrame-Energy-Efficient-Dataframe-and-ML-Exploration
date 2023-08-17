@@ -1,5 +1,5 @@
 
-# ISE_Dataframe_ML_Algo_energy_tool
+# EnergiFrame: Energy-Efficient Dataframe and ML Exploration
 
 This too provides comprehensive analysis of various dataframe libraries and machie learning algorithms from energy consumption perspective.
 
